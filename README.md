@@ -12,7 +12,7 @@ Visual feedback on game progress
 
 Files
 
-hangman.py - The main game script
+game.py - The main game script
 words_for_game.py - Contains the list of words to choose from
 game_visuals.py - Contains ASCII art for the game logo and hangman stages
 
