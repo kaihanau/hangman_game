@@ -59,7 +59,6 @@ Word to guess: _ _ _ _
 - ```****************************6/6 LIVES LEFT****************************```
 - Guess a letter: a
 - You guessed a, that's not in the word. You lose a life
-
 - Word to guess: _ _ _ _
 ```
   +---+
@@ -70,7 +69,7 @@ Word to guess: _ _ _ _
       |
 =========
 ```
-- ****************************5/6 LIVES LEFT****************************
+- ```****************************5/6 LIVES LEFT****************************```
 
 
 ## Potential enhancements for the game:
