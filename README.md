@@ -45,7 +45,7 @@ game.py
 - Python 3.x
 - No additional packages needed
 
-Sample Game Output
+## Sample Game Output
  _                                             
 | |                                            
 | |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
@@ -56,11 +56,11 @@ Sample Game Output
                    |___/                       
 
 Word to guess: _ _ _ _
-****************************6/6 LIVES LEFT****************************
-Guess a letter: a
-You guessed a, that's not in the word. You lose a life
+ - ****************************6/6 LIVES LEFT****************************
+- Guess a letter: a
+- You guessed a, that's not in the word. You lose a life
 
-Word to guess: _ _ _ _
+- Word to guess: _ _ _ _
   +---+
   |   |
   O   |
@@ -68,7 +68,7 @@ Word to guess: _ _ _ _
       |
       |
 =========
-****************************5/6 LIVES LEFT****************************
+- ****************************5/6 LIVES LEFT****************************
 Future Improvements
 
 ## Potential enhancements for the game:
