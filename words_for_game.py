@@ -116,6 +116,7 @@ word_list = [
     'megahertz',
     'microwave',
     'mnemonic',
+    'muffins`,
     'mystify',
     'naphtha',
     'nightclub',
