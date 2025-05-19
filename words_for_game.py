@@ -138,6 +138,7 @@ word_list = [
     'psyche',
     'puppy',
     'puzzling',
+    'pyramid',
     'quartz',
     'queue',
     'quips',
