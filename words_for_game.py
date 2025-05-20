@@ -16,7 +16,6 @@ word_list = [
     'bikini',
     'blitz',
     'blizzard',
-    'quantum',
     'boggle',
     'bookworm',
     'boxcar',
@@ -117,7 +116,6 @@ word_list = [
     'megahertz',
     'microwave',
     'mnemonic',
-    'muffins`,
     'mystify',
     'naphtha',
     'nightclub',
@@ -140,6 +138,7 @@ word_list = [
     'puppy',
     'puzzling',
     'pyramid',
+    'quantum',
     'quartz',
     'queue',
     'quips',
@@ -214,5 +213,5 @@ word_list = [
     'zilch',
     'zipper',
     'zodiac',
-    'zombie',
+    'zombie'
 ]
