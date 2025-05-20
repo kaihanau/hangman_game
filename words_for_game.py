@@ -16,6 +16,7 @@ word_list = [
     'bikini',
     'blitz',
     'blizzard',
+    'quantum',
     'boggle',
     'bookworm',
     'boxcar',
