@@ -38,6 +38,7 @@ word_list = [
     'dirndl',
     'disavow',
     'dizzying',
+    'dolphin',
     'duplex',
     'dwarves',
     'embezzle',
